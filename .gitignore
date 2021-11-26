@@ -1,1 +1,6 @@
 .vs/
+obj/
+*.suo
+!*.exe
+*.exe.config
+*.pdb
